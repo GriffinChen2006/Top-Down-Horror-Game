@@ -1,0 +1,1 @@
+script.Parent:WaitForChild("Humanoid"):SetStateEnabled(Enum.HumanoidStateType.Dead, false)
